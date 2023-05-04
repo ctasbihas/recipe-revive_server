@@ -1,0 +1,418 @@
+[
+    {
+      "id": "6156d778b0701323e3d157e8",
+      "picture": "https://i.ibb.co/fSy0f6J/chef1.jpg",
+      "name": "John Smith",
+      "experience": "10 years",
+      "bio": "John Smith is a talented Bangladeshi chef with over 10 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Smith is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Spicy Fried Chicken",
+          "ingredients": [
+            "Chicken breasts",
+            "Flour",
+            "Egg",
+            "Paprika",
+            "Cayenne pepper"
+          ],
+          "cookingMethod": "1. Mix flour, paprika, cayenne pepper in a bowl. 2. Beat the egg in a separate bowl. 3. Dip the chicken in the egg mixture, then coat with the flour mixture. 4. Deep fry the chicken until golden brown.",
+          "rating": 4.5
+        },
+        {
+          "name": "Creamy Mushroom Pasta",
+          "ingredients": [
+            "Penne pasta",
+            "Butter",
+            "Mushrooms",
+            "Heavy cream",
+            "Parmesan cheese"
+          ],
+          "cookingMethod": "1. Cook the pasta in boiling water. 2. In a separate pan, sauté the mushrooms in butter. 3. Add heavy cream and parmesan cheese to the pan. 4. Mix in the cooked pasta and serve.",
+          "rating": 4.2
+        },
+        {
+          "name": "Grilled Salmon",
+          "ingredients": [
+            "Salmon fillet",
+            "Olive oil",
+            "Lemon juice",
+            "Garlic",
+            "Salt"
+          ],
+          "cookingMethod": "1. Season the salmon fillet with olive oil, lemon juice, garlic, and salt. 2. Grill the salmon on medium-high heat for 5-7 minutes on each side. 3. Serve hot.",
+          "rating": 4.8
+        }
+      ],
+      "likes": 347
+    },
+    {
+      "id": "6156d78cb0701323e3d157e9",
+      "picture": "https://i.ibb.co/Ph8cnDB/chef2.jpg",
+      "name": "Sarah Lee",
+      "experience": "12 years",
+      "bio": "Sarah Lee is a talented Bangladeshi chef with over 12 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Sarah is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Beef Stew",
+          "ingredients": [
+            "Beef chuck roast",
+            "Carrots",
+            "Potatoes",
+            "Onion",
+            "Beef broth",
+            "Flour",
+            "Tomato paste",
+            "Garlic",
+            "Thyme",
+            "Bay leaf",
+            "Salt",
+            "Pepper"
+          ],
+          "cookingMethod": "1. Heat oil in a Dutch oven over medium-high heat. 2. Toss beef in flour, salt, and pepper. 3. Brown beef in the pot. 4. Add in the vegetables, tomato paste, and garlic, stir. 5. Pour in the beef broth and add thyme and bay leaf. 6. Bring to a simmer and cook for 2 to 3 hours.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baked Mac and Cheese",
+          "ingredients": [
+            "Macaroni",
+            "Butter",
+            "Flour",
+            "Milk",
+            "Cheddar cheese",
+            "Breadcrumbs"
+          ],
+          "cookingMethod": "1. Cook macaroni according to package instructions. 2. Melt butter in a saucepan over medium heat. 3. Add flour and stir until smooth. 4. Gradually stir in milk and cook until thickened. 5. Add in cheddar cheese and stir until melted. 6. Combine macaroni and cheese sauce in a baking dish. 7. Top with breadcrumbs and bake at 350°F for 25-30 minutes.",
+          "rating": 4.4
+        },
+        {
+          "name": "Caramelized Onion Burger",
+          "ingredients": [
+            "Ground beef",
+            "Onion",
+            "Burger buns",
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato"
+          ],
+          "cookingMethod": "1. Slice onion thinly and cook in a pan with butter over low heat for 30-40 minutes, stirring occasionally. 2. Form ground beef into patties and grill until cooked through. 3. Toast burger buns. 4. Assemble the burger with mayonnaise, ketchup, lettuce, tomato, caramelized onion, and the beef patty.",
+          "rating": 4.9
+        }
+      ],
+      "likes": 289
+    },
+    {
+      "id": "6156d79db0701323e3d157ea",
+      "picture": "https://i.ibb.co/NtDFVnD/chef3.jpg",
+      "name": "Maria Rodriguez",
+      "experience": "15 years",
+      "bio": "Maria Rodriguez is a talented Bangladeshi chef with over 15 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Maria is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Vegetable Stir Fry",
+          "ingredients": [
+            "Carrots",
+            "Broccoli",
+            "Bell peppers",
+            "Mushrooms",
+            "Garlic",
+            "Ginger",
+            "Soy sauce"
+          ],
+          "cookingMethod": "1. Cut the carrots, broccoli, bell peppers, and mushrooms into bite-sized pieces. 2. Heat some oil in a wok or large skillet over high heat. 3. Add the garlic and ginger and cook for 30 seconds. 4. Add the vegetables and stir-fry for 3-4 minutes. 5. Add soy sauce and continue stir-frying for another minute or two until the vegetables are tender-crisp.",
+          "rating": 4.3
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "Spaghetti",
+            "Bacon",
+            "Eggs",
+            "Parmesan cheese",
+            "Garlic",
+            "Black pepper"
+          ],
+          "cookingMethod": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a separate pan, cook the bacon until crisp. 3. Beat the eggs, parmesan cheese, garlic, and black pepper in a bowl. 4. Drain the spaghetti and add it to the pan with the bacon. 5. Turn off the heat and immediately pour in the egg mixture, stirring quickly to coat the spaghetti evenly. 6. Serve immediately.",
+          "rating": 4.7
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "Beef tenderloin",
+            "Onion",
+            "Mushrooms",
+            "Beef broth",
+            "Sour cream",
+            "Egg noodles"
+          ],
+          "cookingMethod": "1. Cut the beef tenderloin into thin strips. 2. Heat some oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned on all sides. 4. Remove the beef from the pan and set aside. 5. Add the onion and mushrooms to the pan and cook until softened. 6. Add the beef broth and bring to a simmer. 7. Stir in the sour cream and return the beef to the pan. 8. Serve over cooked egg noodles.",
+          "rating": 4.6
+        }
+      ],
+      "likes": 512
+    },
+    {
+      "id": "6156d7aeb0701323e3d157eb",
+      "picture": "https://i.ibb.co/cvwzbPz/chef4.jpg",
+      "name": "Sophie Johnson",
+      "experience": "8 years",
+      "bio": "Sophie Johnson is a talented Bangladeshi chef with over 8 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.8, Johnson is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Crispy Baked Chicken Wings",
+          "ingredients": [
+            "Chicken wings",
+            "Flour",
+            "Baking powder",
+            "Salt",
+            "Paprika",
+            "Garlic powder",
+            "Butter",
+            "Hot sauce"
+          ],
+          "cookingMethod": "1. Preheat the oven to 425°F. 2. Mix the flour, baking powder, salt, paprika, and garlic powder in a bowl. 3. Coat the chicken wings with the flour mixture. 4. Melt the butter and mix it with hot sauce. 5. Dip the chicken wings in the sauce mixture. 6. Place the chicken wings on a baking sheet and bake for 45-50 minutes, flipping them halfway through.",
+          "rating": 4.4
+        },
+        {
+          "name": "Beef and Broccoli Stir Fry",
+          "ingredients": [
+            "Flank steak",
+            "Broccoli",
+            "Soy sauce",
+            "Brown sugar",
+            "Cornstarch",
+            "Garlic",
+            "Ginger",
+            "Sesame oil",
+            "Rice"
+          ],
+          "cookingMethod": "1. Cut the flank steak into thin slices. 2. In a small bowl, whisk together the soy sauce, brown sugar, cornstarch, garlic, and ginger. 3. Heat some oil in a wok or large skillet over high heat. 4. Add the beef and stir-fry for 2-3 minutes. 5. Add the broccoli and continue stir-frying for another 2-3 minutes. 6. Pour the sauce over the beef and broccoli, and stir to combine. 7. Drizzle with sesame oil and serve over rice.",
+          "rating": 4.1
+        },
+        {
+          "name": "Mushroom Risotto",
+          "ingredients": [
+            "Arborio rice",
+            "Mushrooms",
+            "Shallot",
+            "Garlic",
+            "White wine",
+            "Parmesan cheese",
+            "Butter",
+            "Chicken broth"
+          ],
+          "cookingMethod": "1. Heat some oil in a large skillet over medium-high heat. 2. Add the shallot and garlic and cook until softened. 3. Add the mushrooms and continue cooking until they release their liquid. 4. Add the Arborio rice and stir to coat in the mushroom mixture. 5. Pour in the white wine and stir until it has been absorbed. 6. Add the chicken broth, a ladleful at a time, stirring until each addition has been absorbed before adding the next. 7. Continue cooking and stirring until the rice is al dente and the risotto is creamy. 8. Stir in the parmesan cheese and butter until melted and combined.",
+          "rating": 4.9
+        }
+      ],
+      "likes": 234
+    },
+    {
+      "id": "6156d7bfb0701323e3d157ec",
+      "picture": "https://i.ibb.co/Yd97hFj/chef5.jpg",
+      "name": "Sophia Thompson",
+      "experience": "12 years",
+      "bio": "Sophia Thompson is a talented Bangladeshi chef with over 12 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Shahidul is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Spicy Fried Chicken",
+          "ingredients": [
+            "Chicken breasts",
+            "Flour",
+            "Egg",
+            "Paprika",
+            "Cayenne pepper"
+          ],
+          "cookingMethod": "1. Mix flour, paprika, cayenne pepper in a bowl. 2. Beat the egg in a separate bowl. 3. Dip the chicken in the egg mixture, then coat with the flour mixture. 4. Deep fry the chicken until golden brown.",
+          "rating": 4.5
+        },
+        {
+          "name": "Creamy Mushroom Pasta",
+          "ingredients": [
+            "Penne pasta",
+            "Butter",
+            "Mushrooms",
+            "Heavy cream",
+            "Parmesan cheese"
+          ],
+          "cookingMethod": "1. Cook the pasta in boiling water. 2. In a separate pan, sauté the mushrooms in butter. 3. Add heavy cream and parmesan cheese to the pan. 4. Mix in the cooked pasta and serve.",
+          "rating": 4.2
+        },
+        {
+          "name": "Grilled Salmon",
+          "ingredients": [
+            "Salmon fillet",
+            "Olive oil",
+            "Lemon juice",
+            "Garlic",
+            "Salt"
+          ],
+          "cookingMethod": "1. Season the salmon fillet with olive oil, lemon juice, garlic, and salt. 2. Grill the salmon on medium-high heat for 5-7 minutes on each side. 3. Serve hot.",
+          "rating": 4.8
+        }
+      ],
+      "likes": 375
+    },
+    {
+      "id": "6156d7d0b0701323e3d157ed",
+      "picture": "https://i.ibb.co/vq3KbtB/chef6.jpg",
+      "name": "Ethan Martinez",
+      "experience": "5 years",
+      "bio": "Ethan Martinez is a talented Bangladeshi chef with over 5 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Shahidul is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Beef Stew",
+          "ingredients": [
+            "Beef chuck roast",
+            "Carrots",
+            "Potatoes",
+            "Onion",
+            "Beef broth",
+            "Flour",
+            "Tomato paste",
+            "Garlic",
+            "Thyme",
+            "Bay leaf",
+            "Salt",
+            "Pepper"
+          ],
+          "cookingMethod": "1. Heat oil in a Dutch oven over medium-high heat. 2. Toss beef in flour, salt, and pepper. 3. Brown beef in the pot. 4. Add in the vegetables, tomato paste, and garlic, stir. 5. Pour in the beef broth and add thyme and bay leaf. 6. Bring to a simmer and cook for 2 to 3 hours.",
+          "rating": 4.7
+        },
+        {
+          "name": "Baked Mac and Cheese",
+          "ingredients": [
+            "Macaroni",
+            "Butter",
+            "Flour",
+            "Milk",
+            "Cheddar cheese",
+            "Breadcrumbs"
+          ],
+          "cookingMethod": "1. Cook macaroni according to package instructions. 2. Melt butter in a saucepan over medium heat. 3. Add flour and stir until smooth. 4. Gradually stir in milk and cook until thickened. 5. Add in cheddar cheese and stir until melted. 6. Combine macaroni and cheese sauce in a baking dish. 7. Top with breadcrumbs and bake at 350°F for 25-30 minutes.",
+          "rating": 4.4
+        },
+        {
+          "name": "Caramelized Onion Burger",
+          "ingredients": [
+            "Ground beef",
+            "Onion",
+            "Burger buns",
+            "Mayonnaise",
+            "Ketchup",
+            "Lettuce",
+            "Tomato"
+          ],
+          "cookingMethod": "1. Slice onion thinly and cook in a pan with butter over low heat for 30-40 minutes, stirring occasionally. 2. Form ground beef into patties and grill until cooked through. 3. Toast burger buns. 4. Assemble the burger with mayonnaise, ketchup, lettuce, tomato, caramelized onion, and the beef patty.",
+          "rating": 4.9
+        }
+      ],
+      "likes": 289
+    },
+    {
+      "id": "6156d7e1b0701323e3d157ee",
+      "picture": "https://i.ibb.co/WfVJLSk/chef7.jpg",
+      "name": "Olivia Wilson",
+      "experience": "15 years",
+      "bio": "Olivia Wilson is a talented Bangladeshi chef with over 15 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Shahidul is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Vegetable Stir Fry",
+          "ingredients": [
+            "Carrots",
+            "Broccoli",
+            "Bell peppers",
+            "Mushrooms",
+            "Garlic",
+            "Ginger",
+            "Soy sauce"
+          ],
+          "cookingMethod": "1. Cut the carrots, broccoli, bell peppers, and mushrooms into bite-sized pieces. 2. Heat some oil in a wok or large skillet over high heat. 3. Add the garlic and ginger and cook for 30 seconds. 4. Add the vegetables and stir-fry for 3-4 minutes. 5. Add soy sauce and continue stir-frying for another minute or two until the vegetables are tender-crisp.",
+          "rating": 4.3
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "ingredients": [
+            "Spaghetti",
+            "Bacon",
+            "Eggs",
+            "Parmesan cheese",
+            "Garlic",
+            "Black pepper"
+          ],
+          "cookingMethod": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a separate pan, cook the bacon until crisp. 3. Beat the eggs, parmesan cheese, garlic, and black pepper in a bowl. 4. Drain the spaghetti and add it to the pan with the bacon. 5. Turn off the heat and immediately pour in the egg mixture, stirring quickly to coat the spaghetti evenly. 6. Serve immediately.",
+          "rating": 4.7
+        },
+        {
+          "name": "Beef Stroganoff",
+          "ingredients": [
+            "Beef tenderloin",
+            "Onion",
+            "Mushrooms",
+            "Beef broth",
+            "Sour cream",
+            "Egg noodles"
+          ],
+          "cookingMethod": "1. Cut the beef tenderloin into thin strips. 2. Heat some oil in a large skillet over medium-high heat. 3. Add the beef and cook until browned on all sides. 4. Remove the beef from the pan and set aside. 5. Add the onion and mushrooms to the pan and cook until softened. 6. Add the beef broth and bring to a simmer. 7. Stir in the sour cream and return the beef to the pan. 8. Serve over cooked egg noodles.",
+          "rating": 4.6
+        }
+      ],
+      "likes": 512
+    },
+    {
+      "id": "6156d7f2b0701323e3d157ef",
+      "picture": "https://i.ibb.co/1R25qhX/chef8.jpg",
+      "name": "Alexander Patel",
+      "experience": "8 years",
+      "bio": "Alexander Patel is a talented Bangladeshi chef with over 8 years of experience in creating authentic and delicious Bangladeshi dishes. He has developed 180 recipes that showcase the unique flavors and ingredients of the region. With a rating of 4.6, Shahidul is known for his creative approach to cooking and his ability to create dishes that are both healthy and flavorful. His passion for food is evident in every dish he creates, and he loves to share his knowledge and skills with others.",
+      "recipes": [
+        {
+          "name": "Crispy Baked Chicken Wings",
+          "ingredients": [
+            "Chicken wings",
+            "Flour",
+            "Baking powder",
+            "Salt",
+            "Paprika",
+            "Garlic powder",
+            "Butter",
+            "Hot sauce"
+          ],
+          "cookingMethod": "1. Preheat the oven to 425°F. 2. Mix the flour, baking powder, salt, paprika, and garlic powder in a bowl. 3. Coat the chicken wings with the flour mixture. 4. Melt the butter and mix it with hot sauce. 5. Dip the chicken wings in the sauce mixture. 6. Place the chicken wings on a baking sheet and bake for 45-50 minutes, flipping them halfway through.",
+          "rating": 4.4
+        },
+        {
+          "name": "Beef and Broccoli Stir Fry",
+          "ingredients": [
+            "Flank steak",
+            "Broccoli",
+            "Soy sauce",
+            "Brown sugar",
+            "Cornstarch",
+            "Garlic",
+            "Ginger",
+            "Sesame oil",
+            "Rice"
+          ],
+          "cookingMethod": "1. Cut the flank steak into thin slices. 2. In a small bowl, whisk together the soy sauce, brown sugar, cornstarch, garlic, and ginger. 3. Heat some oil in a wok or large skillet over high heat. 4. Add the beef and stir-fry for 2-3 minutes. 5. Add the broccoli and continue stir-frying for another 2-3 minutes. 6. Pour the sauce over the beef and broccoli, and stir to combine. 7. Drizzle with sesame oil and serve over rice.",
+          "rating": 4.1
+        },
+        {
+          "name": "Mushroom Risotto",
+          "ingredients": [
+            "Arborio rice",
+            "Mushrooms",
+            "Shallot",
+            "Garlic",
+            "White wine",
+            "Parmesan cheese",
+            "Butter",
+            "Chicken broth"
+          ],
+          "cookingMethod": "1. Heat some oil in a large skillet over medium-high heat. 2. Add the shallot and garlic and cook until softened. 3. Add the mushrooms and continue cooking until they release their liquid. 4. Add the Arborio rice and stir to coat in the mushroom mixture. 5. Pour in the white wine and stir until it has been absorbed. 6. Add the chicken broth, a ladleful at a time, stirring until each addition has been absorbed before adding the next. 7. Continue cooking and stirring until the rice is al dente and the risotto is creamy. 8. Stir in the parmesan cheese and butter until melted and combined.",
+          "rating": 4.9
+        }
+      ],
+      "likes": 234
+    }
+  ]

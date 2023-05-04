@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Use a Sharp Knife",
+      "description": "A sharp knife will make your prep work faster and more efficient. It will also reduce the risk of injury by allowing you to make clean cuts without applying too much pressure.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Season Generously",
+      "description": "Don't be afraid to use plenty of salt and other seasonings to add flavor to your dishes. Remember to taste as you go and adjust the seasoning as needed.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Preheat Your Pan",
+      "description": "Before you start cooking, make sure your pan is hot. This will ensure that your food cooks evenly and develops a nice crust.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Keep Your Workspace Clean",
+      "description": "A clean workspace will make cooking more enjoyable and reduce the risk of cross-contamination. Make sure to clean as you go and sanitize your surfaces regularly.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Let Your Meat Rest",
+      "description": "After cooking meat, let it rest for a few minutes before slicing or serving. This will allow the juices to redistribute and make for a juicier and more flavorful dish.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Invest in Good Quality Ingredients",
+      "description": "The quality of your ingredients will have a big impact on the final outcome of your dish. Whenever possible, choose fresh, high-quality ingredients and avoid processed foods.",
+      "image": "https://images.unsplash.com/photo-1542744174-1bb58a2a8a64?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]

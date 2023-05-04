@@ -1,0 +1,17 @@
+[{
+        "Question": "Tell us the differences between uncontrolled and controlled components.",
+        "Answer": "In React, a controlled component is a component that is controlled by React state. In other words, the component's state is always kept in sync with the input values. On the other hand, an uncontrolled component is a component where the form data is handled by the DOM itself, rather than by React state. This means that the data is read directly from the input using a ref."
+    },
+    {
+        "Question": "How to validate React props using PropTypes?",
+        "Answer": "PropTypes is a library that comes with React and allows you to specify the types of your props. To use PropTypes, you need to import it from the 'prop-types' library and then specify the types of your props using PropTypes.oneOfType, PropTypes.string, PropTypes.number, PropTypes.bool, etc. For example, if you want to ensure that a prop called 'name' is a string, you can use 'PropTypes.string' like this: MyComponent.propTypes = { name: PropTypes.string };"
+    },
+    {
+        "Question": "Tell us the difference between Node.js and Express.js.",
+        "Answer": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to run JavaScript code outside of a web browser, and it can be used to build servers and command-line tools. Express.js, on the other hand, is a web framework built on top of Node.js. It provides a set of features and utilities to build web applications, such as routing, middleware, and templating."
+    },
+    {
+        "Question": "What is a custom hook, and why will you create a custom hook?",
+        "Answer": "A custom hook is a JavaScript function that uses React hooks and is intended to be reused across multiple components. Custom hooks allow you to abstract away complex logic and state management into a single, reusable function. You might create a custom hook if you find yourself writing the same code repeatedly in different components or if you need to share state or logic between unrelated components. For example, you could create a custom hook to handle form validation or to fetch data from an API."
+    }
+]
